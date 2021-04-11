@@ -1,5 +1,5 @@
 # Simple-Supreme-Checkout
-Basic script to checkout on Supreme
+Basic script to speed up checkout on Supreme
 
 Edit the code to change values
 
